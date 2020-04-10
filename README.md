@@ -13,4 +13,5 @@ cine este la rand ( se coloreaza cu rosu ), daca este singleplayer sau multiplay
 etc.  
  Este folosita ca si o coloana sonora un fisier extern, la fel cum si la fiecare mutare este redat un sunet specifc .
  Piesele si tabla sunt desenate folosind o biblioteca specifica pentru C++ . 
- Pentru mai multe detalii de functionalitate se poate accesa videoclipul de preszentare . 
+ Pentru mai multe detalii de functionalitate se poate accesa videoclipul de preszentare . Joc.wav nu a fost inclus in git deoarece
+ are o dimensiune mai mare de 25 mb, insa functionalitatea jocului este similara. 
