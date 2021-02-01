@@ -1,7 +1,5 @@
-# Razboi-in-8-
-Chess based game
+# Chess based game
 
-Chess based game
 
 EN:
 This is the final project in one of the subjects from year 1. The game is similar to the game of checkers, the capture being made when a piece is surrounded. The moves are 
